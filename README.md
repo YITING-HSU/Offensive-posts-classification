@@ -1,12 +1,12 @@
 ## Multilabel classification on offensive social media post with BERT and PyTorch Lightning
-This project uses the Social Bias Inference Corpus (SBIC) to construct a multi-label classifier to detect whether a social media post is offensive and fits into one or more targeted categories. BERT and PyTorch Lightning were used to build the model.
+This project utilizes the Social Bias Inference Corpus (SBIC) to develop a multi-label classifier capable of detecting offensive social media posts and categorizing them into one or more targeted categories. The model was constructed using BERT and PyTorch Lightning.
 
 This notebook consists of three main sections:
 
-- Introduction: The section describes the challenge in the domain-specific area, objectives of the project, the dataset and the evaluation metrics that were chosen to evaluate the results.
+- Introduction: This section outlines the domain-specific challenge, project objectives, dataset, and evaluation metrics used to assess the results.
 
-- Implementation: This section includes data preprocessing, performance of the baseline model and the classification approach.
+- Implementation: This section details the data preprocessing, the baseline model's performance, and the classification approach.
 
-- Conclusions: This section evaluates the results of the classifier, the application and contribution of the project, and different alternative approaches.
+- Conclusions: This section evaluates the classifier's outcomes, assesses the project's application and contribution, and explores alternative approaches.
 
-Social Bias Inference Corpus is shared under under Creative Commons Attribution 4.0 International Public License. Under the license, the project can use the data as long as credit is given. The corpus is available at http://tinyurl.com/social-bias-frames.
+Social Bias Inference Corpus is licensed under Creative Commons Attribution 4.0 International Public License. As long as credit is given, the project can use the data. The corpus is accessible at http://tinyurl.com/social-bias-frames.
